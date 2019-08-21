@@ -218,7 +218,7 @@ padding: 10px
 }
 
 .team h2{
-    color: rgb(75, 78, 78) ;
+    color: rgb(75, 78, 78) !important;
     font-size: 4em
 }
                                 /* footer */
